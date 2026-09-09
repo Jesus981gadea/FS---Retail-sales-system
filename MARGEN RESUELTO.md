@@ -1,3 +1,5 @@
+<img width="1880" height="1003" alt="image" src="https://github.com/user-attachments/assets/056a8307-627d-49e0-8abe-0bc124fcf1cf" />
+
 # Análisis de Ventas y Margen por Categoría — Distribuidora Ferretera
 
 **Industria:** Retail / Ferretería
@@ -26,6 +28,7 @@ La distribuidora maneja más de 40 categorías de producto (pinturas, caños, pe
 
 ### a) Concentración tipo "long tail"
 Pinturas, Caños, Pegamentos, Químicos y Aerosoles concentran la mayor parte de las ventas del mes. Después de esas 5 categorías, el gráfico cae en una cola larga de ~30 categorías con ventas marginales (Clavos, Brocas, Armellas, Cerrojos, Empaquetaduras, etc.).
+<img width="1868" height="455" alt="image" src="https://github.com/user-attachments/assets/405df907-339a-414e-a38a-84d66cbf5c6b" />
 
 **→ Decisión:** priorizar compras e inventario en las 5 categorías top; evaluar si vale sostener stock en la cola larga o consolidarla.
 
@@ -39,10 +42,12 @@ Todas las categorías muestran un margen muy similar (~34-35%): Pinturas 35.0%, 
 
 **→ Decisión:** antes de tomar decisiones de pricing o mix de producto basadas en margen, cargar el costo real por producto. Es la mejora de datos con mayor impacto posible.
 
+
 ### d) Alcance vs. profundidad de cliente
 El "único %" varía fuerte entre categorías: Aerosoles tiene 80% (casi todo el que pasa por ahí termina comprando), mientras que Pinturas solo 22.2% (mucho tráfico/consulta, pero baja conversión a compra).
 
 **→ Decisión:** investigar por qué Pinturas convierte tan poco pese a ser la categoría de mayor venta — posible fricción de precio, falta de color/marca específica, o ticket alto que retrae la decisión de compra.
+<img width="940" height="302" alt="image" src="https://github.com/user-attachments/assets/35a162fe-e5cc-4db8-bbd7-4111afebbe9d" />
 
 ---
 
